@@ -1,8 +1,9 @@
 ---
 title: "UK Salaries Analyser"
-excerpt: "Salaries insight for job seekers<br/><img src='https://assets.publishing.service.gov.uk/media/65d34302e1bdec7737322248/Untitled__2_.png'>"
+excerpt: "Salaries insight for job seekers<br/><img src='https://assets.publishing.service.gov.uk/media/65d34302e1bdec7737322248/Untitled__2_.png' width='500' height='300'>"
 collection: portfolio
 ---
+
 ![logo](https://miro.medium.com/v2/resize:fit:1200/1*bO885-PxDiiwLXEqmjDL-w.jpeg)
 # UK Salaries Analyzer
 This project is the CS50 certification final project.
