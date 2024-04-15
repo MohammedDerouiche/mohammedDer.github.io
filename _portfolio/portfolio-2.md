@@ -1,6 +1,6 @@
 ---
 title: "Cyclistic bike-share Analysis"
-excerpt: "How does a bike share company reach a speedy success<br/><img src='/images/cyclistics.png'>"
+excerpt: "How does a bike share company reach a speedy success<br/><img src='https://miro.medium.com/v2/resize:fit:793/1*RIRe2uwWvkKFHzB43UpYKg.png' width='500' height='300'>"
 collection: portfolio
 ---
 
