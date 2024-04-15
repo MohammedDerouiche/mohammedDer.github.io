@@ -1,6 +1,6 @@
 ---
-title: "UK Salaries Analyser"
-excerpt: "Salaries insight for job seekers<br/><img src='/images/ukSalaries.png'>"
+title: "Cyclistic bike-share Analysis"
+excerpt: "How does a bike share company reach a speedy success<br/><img src='/images/cyclistics.png'>"
 collection: portfolio
 ---
 
