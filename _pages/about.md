@@ -66,3 +66,8 @@ redirect_from:
   Analyzed UK salaries data to identify trends and patterns in salary distribution.
   - **Skills:** Web Scraping, Data Analysis, Flask Web Dev. 
   - **Languages:** Python, SQL, HTML, CSS. 
+
+- **[Cyclistics Analysis](#) | Google Data Analytics Cert Capstone**  
+  Analyzed Cyclistics data to provide insights and recommendations for improving business performance.
+  - **Skills:** Data Analysis. 
+  - **Languages:** R. 
