@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mohammed's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Mohammed Derouiche"
 description              : &description "A Junior Data Analyst"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "MyPhoto.png"
   name             : "Mohammed Derouiche"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "A Junior Data Analyst"
   location         : "Algeria/El-oued"
   employer         : "My Home .co"
