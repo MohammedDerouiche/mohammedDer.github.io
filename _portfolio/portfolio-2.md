@@ -41,4 +41,4 @@ The analysis primarily utilizes the R programming language, along with popular l
 - lubridate 
 - geosphere
 
-[GitHub Repository](https://github.com/MohammedDerouiche/CS50-s_FinalProject)
+[GitHub Repository](https://github.com/MohammedDerouiche/Cyclistic_Analysis)
